@@ -55,7 +55,9 @@ npm run dev
 # 3. Build for production (Netlify / Vercel)
 npm run build
 ```
+### 🌐 Live Demo
 
+Check out the live version of FinFlow here: [**View Live Project**](https://finflow-personal-finance.netlify.app/)
 ---
 
 Developed by **Mustafizur Rahman Mahfuz**
